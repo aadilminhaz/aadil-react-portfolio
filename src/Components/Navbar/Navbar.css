@@ -1,0 +1,18 @@
+.navbar {
+    height: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    /*background: linear-gradient(250deg, #16151376 10%, #434343 100%);*/
+    background-color: white;
+    padding:20px;
+    gap:15px;
+    font-size: 12px;
+    font-weight: 300;
+    color:black;
+}
+
+.nav-menu {
+    border: 2px solid white;
+}

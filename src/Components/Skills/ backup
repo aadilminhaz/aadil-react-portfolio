@@ -1,0 +1,70 @@
+
+                <div className="skill-format">
+                    <h1>Microservices Backend</h1>
+
+                    <p>With over 8+ experience in Java based backend technologies, I can build highly scalable, Microservices REST APIs with cloud native architecture. </p>
+                    <div className='tech-box1'>
+                        <p>Java 8, 11, 17</p>
+                    </div>
+                    <div className='tech-box1'>
+                        <p>Spring Boot</p>
+                    </div>
+                    <div className='tech-box1'>
+                        <p>NoSQL - MongoDB</p>
+                    </div>
+                    <div className='tech-box1'>
+                        <p>Relational DB - MySQL</p>
+                    </div>
+                    <div className='tech-box1'>
+                        <p>AWS EC2, S3 and more</p>
+                    </div>
+                    <div className='skill-image'>
+                        
+                    </div>
+                </div>
+                <div className="skill-format">
+                    <h1>Real-Time Event Driven application</h1>
+
+                    <p>With extensive experience of building event-driven architecture for Connected Car technology, I am proficient with messaging technologies like Kafka.</p>
+                    <div className='tech-box1'>
+                        <p>Kafka</p>
+                    </div>
+                    <div className='tech-box1'>
+                        <p>MQTT</p>
+                    </div>
+                    <div className='tech-box1'>
+                        <p>Docker & Kubernetes</p>
+                    </div>
+                    <div className='tech-box1'>
+                        <p>Event processing using Kafka Streams</p>
+                    </div>
+                    
+                    <div className='skill-image'>
+                        
+                    </div>
+                </div>
+
+                <div className="skill-format">
+                    <h1>AI/ML powered applications</h1>
+
+                    <p>With extensive experience of building event-driven architecture for Connected Car technology, I am proficient with messaging technologies like Kafka.</p>
+                    
+                    
+                    
+                    <div className='tech-box1'>
+                        <p>PyTorch</p>
+                    </div>
+                    <div className='tech-box1'>
+                        <p>Large Language Models LLM</p>
+                    </div>
+                    <div className='tech-box1'>
+                        <p>Generative AI</p>
+                    </div>
+                    <div className='tech-box1'>
+                        <p>Natural Language Processing NLP</p>
+                    </div>
+                    
+                    <div className='skill-image'>
+                        
+                    </div>
+                </div>

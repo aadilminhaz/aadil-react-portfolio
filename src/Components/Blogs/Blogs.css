@@ -1,0 +1,10 @@
+.blogs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    margin:5%;
+    height: 400px;
+    border: 2px solid white;
+    font-family: Arial, Helvetica, sans-serif;
+}
