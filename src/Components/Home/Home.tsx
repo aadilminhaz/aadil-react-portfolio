@@ -1,4 +1,3 @@
-import React from 'react';
 import './Home.css';
 import home_image from  '../../assets/home_image.jpeg';
 import linkedin_logo from '../../assets/linkedin_logo.png';
