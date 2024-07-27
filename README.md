@@ -8,13 +8,26 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## To deploy on github
+source:
+https://dev.to/rashidshamloo/deploying-vite-react-app-to-github-pages-35hf
+
 - First create a repository and commit usual stuff
-### Add following values in package.json: 
+### Install these
+npm install gh-pages --save-dev
+
+### In the package.json file add these lines before "build": "vite build",
 - "homepage": "https://github.com/aadilminhaz/aadil-react-portfolio.git"
 - "scripts":{
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+   "predeploy": "npm run build",
+"deploy": "gh-pages -d dist", 
 }   
+#### In the vite.config.js file add this line before plugins: [react()],
+
+- base: "/aadil-react-portfolio",
+
+### Finally
+- npm run deploy
+
 
 ## Expanding the ESLint configuration
 
