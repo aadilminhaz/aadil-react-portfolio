@@ -264,6 +264,7 @@
         margin-top:0px;
         padding:5px;
     
+
     }
     .skill-info {  
         gap:10px;
@@ -306,7 +307,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 80%;
+        width: 90%;
         gap:10px;
         padding:0px;
         border:2px solid #3f0028;
