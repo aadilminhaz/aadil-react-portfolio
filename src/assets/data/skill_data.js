@@ -7,7 +7,7 @@ const skill_data = [
         title: "Microservices Backend",
         image: skill_backend,
         info: "With over 8+ experience in Java based backend technologies, I can build highly scalable, Microservices REST APIs with cloud native architecture.",
-        technologies: ["Java 8, 11, 17", "Spring Boot", "Relational DB - MySQL", "AWS EC2, S2, CI/CD and more"]
+        technologies: ["Java 8, 11, 17", "Spring Boot", "Relational DB - MySQL", "AWS EC2, S3, CI/CD and more"]
     },
     {
         title: "Real-Time Event Driven applications",
