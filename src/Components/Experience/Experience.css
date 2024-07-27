@@ -339,13 +339,11 @@
         justify-content: center;
         align-items: center;
         width: 90%;
-        gap:10px;
-        padding:0px;
-        border:2px solid #e6e6e6;
-    
+        margin:0px;
+        padding:0px;    
     }
     .experience-format {
-        width: 90%;
+        width: 85%;
         /*height:300px;*/
         border-radius: 20px;
         /*background-color: white;*/
