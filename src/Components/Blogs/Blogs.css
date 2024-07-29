@@ -178,6 +178,7 @@
     
     .blogs-format h1 {
         font-size: 17px;
+        font-weight: 500;
         min-height:20px;
         justify-content: center;
         margin-bottom:0px;
@@ -305,7 +306,7 @@
     .blogs-format h1{
         padding: 3px;
         font-size: 17px;
-        font-weight: 300;
+        font-weight: 500;
        
     }
 
