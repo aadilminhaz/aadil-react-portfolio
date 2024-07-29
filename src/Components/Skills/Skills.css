@@ -43,6 +43,15 @@
     line-height: 22px;
 }
 
+.skills-intro span {
+    font-size: 16px;
+    background: linear-gradient(270deg, #DF8908 10%, #B415FF 100%);
+    font-weight: 300;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .skills-containter {
     display: grid;
     justify-content: center;

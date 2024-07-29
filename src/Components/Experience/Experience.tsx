@@ -18,7 +18,7 @@ const Experience: React.FC = () => {
       </div>
       <div className="experience-intro">
         <p>
-          Along with highly distributed and scalable Microservices, REST API, and Event-Driven solutions, I am well equipped with knowledge to deliver cutting-edge Artificial Intelligence and Gen AI solutions (Thanks to my recent Degree in Artificial Intelligence).
+          Along with highly distributed and scalable Microservices and Event-Driven applications , I have worked on various innovative full-stack prototypes, solving real world problems like remote operation on cars.
         </p>
       </div>
       <div className="experience-container">

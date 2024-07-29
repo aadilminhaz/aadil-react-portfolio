@@ -18,7 +18,7 @@ const Skills: React.FC = ()=>{
                 <h1>What I can build for you</h1>
             </div>
             <div className="skills-intro">
-                <p>Along with higly distributed and scalable Microservices, REST API and Event-Driven solutions I am well equiped with knowledge to deliver cutting-edge Artificial Intelligence and Gen AI solutions (Thanks to my recent Degree in Artificial Intelligene). </p>
+                <p>I am a seasoned software engineer with over 8 years of experience as a Java Backend Developer. I specialize in design and implementation of highly scalable, real-time, and distributed solutions for <span>FinTech, E-Commerce, and Smart Automotive</span> domains.<br/> I am also well-equipped with the knowledge to deliver cutting-edge Artificial Intelligence and Gen AI solutions, thanks to my recent degree in Artificial Intelligence. </p>
             </div>
             
             <div className="skills-containter">

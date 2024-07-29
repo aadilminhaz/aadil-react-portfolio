@@ -9,20 +9,20 @@ const Experience_Data = [
         title: "'Hey Alexa, how much gas my car has?'",
         image: experience_alexa,
         info: "AI powered Alexa voice assistant",
-        details: "Designed and implemented multiple prototypes, including Smart Alexa Skill that enables users to get car's information via voice command"
+        details: "Designed and implemented multiple prototypes from scratch, including Smart Alexa Skill that enables users to get car's information via voice command."
     },
     {
         title: "'Harman Ignite Connected Car Cloud'",
         image: experience_ignite,
-        info: "Highly Scalable Connected Car Cloud Microservices Platfrom Harman Ignite",
-        details: "Designed and implemented multiple prototypes, including Smart Alexa Skill that enables users to get car's information via voice command"
+        info: "Highly Scalable Connected Car Cloud Microservices Platfrom, Harman Ignite",
+        details: "Led the design, development and enhancement of real-time web services for Harman Ignite, ensuring robust, secure and product quality code."
     },
     {
         title: "'GenAI powered Robot to deliver your food'",
         
         image: experience_ai,
-        info: "Harman Ignite AI powered Alexa voice assistant",
-        details: "Designed and implemented multiple prototypes, including Smart Alexa Skill that enables users to get car's information via voice command"
+        info: "Vision Transformer model based Authentication on food delivery robot",
+        details: "Built a custom Vision Transformer LLM model integrated with a multi-sensor fusion module using RGB and infrared cameras. This system achieved facial authentication with zero manual user input in various real-world conditions, including complete darkness, and delivered over 90% accuracy for both false positives and false negatives."
     }
 ]
 
