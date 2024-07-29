@@ -16,7 +16,7 @@ const Experience: React.FC = () => {
   return (
     <div className="experience">
       <div className="experience-title">
-        <h1>My recent works</h1>
+        <h1>My recent work</h1>
       </div>
       <div className="experience-intro">
         <p>
