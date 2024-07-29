@@ -24,7 +24,7 @@ function App() {
     
 
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/aadil-react-portfolio">
         <Routes>
           <Route index element={<HomePage/>} />
           <Route path="/blogs" element={<BlogWeb/>}/>
