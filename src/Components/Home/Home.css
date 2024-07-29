@@ -172,6 +172,7 @@
         height: 500px;
         gap:20px;
         margin:20px;
+        margin-top:-10px;
         display: flex;
         /*background: linear-gradient(264deg, #ffffff 50.40%, #000000 70.6%);
         z-index: -1;
