@@ -10,7 +10,8 @@ const Home = () => {
                 <div className='home-container-left'>
                 <h1><span>I'm Aadil Minhaz</span>, a Russell Group Graduate based in England, UK.</h1>
                 
-                <p>A Software Engineer with over 7 years of experience and a recent Russell Group Graduate in Artificial Intelligence and Cyber Security from University of Sheffield, England. </p>
+                <p>A Software Engineer with over 8 years of experience and a recent Russell Group Graduate with a Masters degree in Artificial Intelligence and Cyber Security from University of Sheffield, England. </p>
+                <p>For CV, connect with me at: aadilminhaz@outlook.com</p>
                 <div className='connect'>
                     <div className='connect-linkedin'>
                         <a href="https://www.linkedin.com/in/aadilminhaz" target="_blank"><img src={linkedin_logo} alt="" /></a>

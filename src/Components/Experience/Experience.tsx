@@ -2,12 +2,14 @@ import React from 'react';
 import Experience_Data from '../../assets/experience_data';
 import './Experience.css';
 import '../Skills/Skills.css';
+import github_logo from  '../../assets/github_black_logo.png';
 
 interface ExperienceItem {
   title: string;
   image: string; // Make sure the type is string to hold the image path
   info: string;
   details: string;
+  link:string;
 }
 
 const Experience: React.FC = () => {
@@ -31,6 +33,15 @@ const Experience: React.FC = () => {
                     <div className='experince-details'>
                         <p>{experience.details}</p>
                     </div>
+                    {experience.link.length > 0 ?(
+                      
+                      <div className='link-container'>
+                        <p>Thesis can be found here: </p>
+                        <div className='connect-github-conatiner'>
+                          <a href={experience.link}  target='_blank'><img className="connect-link" src={github_logo} alt=""/></a>
+                        </div>
+                      </div>
+                    ):<p></p>}
                 </div>   
                 <div className="experience-image">
                     <img src={experience.image} alt="experience" />
