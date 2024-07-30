@@ -264,7 +264,9 @@
         border-radius: 20px;
         /*background-color: white;*/
         padding: 20px;
+        
         margin-bottom:20px;
+        margin-left:0px;
         
     }
 
@@ -298,14 +300,14 @@
     }
 
     .blogs-image img {
-        width: 350px;
+        width: 320px;
         height:200px;
         object-fit: cover;
         margin-left:0px;
     }
     .blog-overlay {
     
-        width: 350px;
+        width: 320px;
         margin-top: -45px;
         background: linear-gradient(180deg, #cbcbcbc7 50%, #ffffff 100%);
         z-index: +1;
