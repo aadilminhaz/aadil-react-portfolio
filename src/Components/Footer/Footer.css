@@ -7,7 +7,7 @@
     
     width: 70%;
     margin-left:15%;
-    border:1px solid #B415FF;
+
     
 }
 
@@ -56,7 +56,7 @@
     display:flex;
     justify-content: space-between;
     font-size: 12px;
-    min-width: 400px;
+    min-width: 340px;
 }
 
 .footer-bottom-right {
@@ -92,10 +92,9 @@
     }
     .footer-bottom{
         display:flex;
-        width: 360px;
-        justify-content: space-between;
+        max-width: 200px;
+        min-width: 200px;
         font-size: 12px;
-        
-        border:1px solid #DF8908;
+        padding-bottom:15px;
     }
 }
