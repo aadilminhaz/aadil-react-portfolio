@@ -18,7 +18,7 @@ function HomePage() {
       
             <Experience/>
             <Blogs/>
-            <Footer/>
+            
         </>
     );
 }
