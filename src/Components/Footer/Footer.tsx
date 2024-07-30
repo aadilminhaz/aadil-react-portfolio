@@ -7,7 +7,7 @@ const Footer = () => {
             
             <hr/>
             <div className='footer-bottom'>
-                <p className='footer-bottom-left'>@ 2024 Aadil Minhaz. All right reserved</p>
+                <p className='footer-bottom-left'>@ 2024 Aadil Minhaz. Custom original design.</p>
                 
             </div>
         </div>       

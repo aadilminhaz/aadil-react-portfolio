@@ -20,7 +20,7 @@ const Experience: React.FC = () => {
       </div>
       <div className="experience-intro">
         <p>
-          Along with highly distributed and scalable Microservices and Event-Driven applications , I have designed various innovative full-stack prototypes from scratch, solving real world problems like remote operation on cars.
+          Along with highly distributed and scalable Microservices and Event-Driven applications, I have designed various innovative full-stack prototypes from scratch, solving real world problems like remote operation on cars.
         </p>
       </div>
       <div className="experience-container">
