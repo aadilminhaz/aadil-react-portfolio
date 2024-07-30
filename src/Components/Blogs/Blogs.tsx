@@ -11,7 +11,7 @@ const Blogs = ()=>{
                 <h1>Tech-Blogs</h1>
             </div>
             <div className="blogs-intro">
-                <p>I will be sharing my research findings on Tech Blogs. Along with AI content, I will be sharing my approach and solution to interesting problems, I usually face while designing Microservices and Even-Driven appications.</p>
+                <p>I will be sharing my research findings on Tech Blogs. Along with AI content, I will be sharing my approach and solution to interesting problems, I usually face while designing Microservices and Event-Driven appications.</p>
             </div>
             <div className="blogs-containter">
             <div className="blogs-format">

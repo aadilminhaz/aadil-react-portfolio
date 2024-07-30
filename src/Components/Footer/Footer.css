@@ -92,6 +92,7 @@
     }
     .footer-bottom{
         display:flex;
+        width: 360px;
         justify-content: space-between;
         font-size: 12px;
         max-width: 100%;
