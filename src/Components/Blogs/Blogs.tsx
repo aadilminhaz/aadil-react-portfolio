@@ -15,13 +15,15 @@ const Blogs = ()=>{
             </div>
             <div className="blogs-containter">
             <div className="blogs-format">
+                <a href="https://www.linkedin.com/pulse/strict-event-ordering-kafka-using-java-21-spring-boot-aadil-minhaz-xyece/?trackingId=FD5%2BcwDDQ%2B%2BQNJIVcagluQ%3D%3D">
                     <h1>Kafka - Producing and Consuming events from the same Partition</h1>
                     <div className='blogs-image'>
                         <img src={BlogImage1} alt="Blog-Image"/>
                     </div>
                     <div className='blog-overlay'>
-                        <p>Coming on 10th August, 2024</p>
+                        <p></p>
                     </div>
+                </a>
                     
             </div>
                 <div className="blogs-format">
@@ -30,7 +32,7 @@ const Blogs = ()=>{
                         <img src={BlogImage2} alt="Blog-Image"/>
                     </div>
                     <div className='blog-overlay'>
-                        <p>Coming on 22th August, 2024</p>
+                        <p>Coming soon</p>
                     </div>
                 </div>
             </div>
