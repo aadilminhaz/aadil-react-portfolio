@@ -9,6 +9,7 @@ interface ExperienceItem {
   image: string; // Make sure the type is string to hold the image path
   info: string;
   details: string;
+  link_description: string;
   link:string;
 }
 
@@ -36,7 +37,7 @@ const Experience: React.FC = () => {
                     {experience.link.length > 0 ?(
                       
                       <div className='link-container'>
-                        <p>Thesis can be found here: </p>
+                        <p>{experience.link_description}</p>
                         <div className='connect-github-conatiner'>
                           <a href={experience.link}  target='_blank'><img className="connect-link" src={github_logo} alt=""/></a>
                         </div>

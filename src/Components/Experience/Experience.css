@@ -161,9 +161,10 @@
 
 .experience-image img {
     width: 300px;
-    height: 210px;
+    height: 230px;
     object-fit: cover;
     margin-left:0px;
+    margin-top:10px;
     
 }
 
