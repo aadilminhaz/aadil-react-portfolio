@@ -27,6 +27,12 @@
     font-size:40px;
     font-weight: 500;
 }
+.experience-title-image {
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 8px;
+}
 
 .experience-intro {
     width:800px;
@@ -154,7 +160,6 @@
     background-color: grey;
     border-radius: 50px;
 }
-
 
 
 

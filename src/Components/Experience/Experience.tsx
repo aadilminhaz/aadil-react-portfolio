@@ -6,6 +6,7 @@ import github_logo from  '../../assets/github_black_logo.png';
 
 interface ExperienceItem {
   title: string;
+  title_image: string;
   image: string; // Make sure the type is string to hold the image path
   info: string;
   details: string;
@@ -27,6 +28,7 @@ const Experience: React.FC = () => {
       <div className="experience-container">
         {Experience_Data.map((experience: ExperienceItem, index: number) => (
           <div key={index} className="experience-format">
+            {experience.title_image.length > 0 ?(<img className='experience-title-image' src={experience.title_image}/>):""}
             <h1>{experience.title}</h1>
             <div className='experience-information'>
                 <div className='experience-info-left'>
