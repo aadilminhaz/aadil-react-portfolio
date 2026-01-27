@@ -8,9 +8,9 @@ const Home = () => {
         <div className='home'>
             <div className='home-container'>
                 <div className='home-container-left'>
-                <h1><span>I'm Aadil Minhaz</span>, a Russell Group Graduate based in England, UK.</h1>
+                <h1><span>I'm Aadil Minhaz</span>, a Software Engineer & Russell Group Graduate based in England, UK.</h1>
                 
-                <p>A Software Engineer with over 8 years of experience and a recent Russell Group Graduate with a Masters degree in Artificial Intelligence and Cyber Security from University of Sheffield, England. </p>
+                <p>AI/ML Engineer, Researcher & Backend Specialist with 10+ years of experience, building intelligent, scalable enterprise systems, backed by a Russell Group Master’s in AI & Cybersecurity.</p>
                 <p>For CV, connect with me at: aadilminhaz@outlook.com</p>
                 <div className='connect'>
                     <div className='connect-linkedin'>

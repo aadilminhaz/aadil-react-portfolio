@@ -17,8 +17,9 @@ const Skills: React.FC = ()=>{
             <div className="skills-title">
                 <h1>What I can build for you</h1>
             </div>
+            
             <div className="skills-intro">
-                <p>I am a seasoned software engineer with over 8 years of experience as a Java Backend Developer. I specialize in design and implementation of highly scalable, real-time, and distributed solutions for <span>FinTech, E-Commerce, and Smart Automotive</span> domains.<br/> I am also well-equipped with the knowledge to deliver cutting-edge Artificial Intelligence and Gen AI solutions, thanks to my recent degree in Artificial Intelligence. </p>
+                <p>I am an AI/ML Engineer, Researcher and Backend Specialist with 10 years of experience building intelligent, scalable systems at the intersection of artificial intelligence and distributed software architecture. I specialize in designing Generative AI platforms, event-driven microservices, and real-time solutions for <span>FinTech, E-Commerce, and Smart Automotive</span> domains. </p>
             </div>
             
             <div className="skills-containter">

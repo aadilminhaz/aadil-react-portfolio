@@ -1,6 +1,7 @@
 import experience_ignite from '../../src/assets/experience_ignite.png';
 import experience_alexa from '../../src/assets/experience_alexa.png';
 import experience_ai from '../../src/assets/exp_ai.png';
+import conference_ai from '../../src/assets/conference.jpeg'
 import experience_ai_pro from '../../src/assets/exp_ai_pro.png';
 
 
@@ -22,7 +23,15 @@ const Experience_Data = [
         
     },
     {
-        title: "'GenAI powered Robot to deliver your food'",
+        title: "'Research on Multi-Modal AI Security'",
+        
+        image: conference_ai,
+        info: "Multimodal AI Security: Mitigating prompt attack on AI Models using AI-Gateway",
+        details: "I presented my ongoing research on Multimodal AI Security at the Multimodal AI Conference in London, organized by the UK Open Multimodal AI Network (UKOMAIN) and UK Research and Innovation. My work focuses on mitigating prompt-based attacks across text, speech, and vision models, securing multimodal AI systems for real-world, production deployments.",
+        link: "https://multimodalai.github.io/multimodalai25/accepted-abstracts/"
+    },
+    {
+        title: "'Research on GenAI powered Robot to deliver your food'",
         
         image: experience_ai,
         info: "Vision Transformer model based Authentication on food delivery robot",
