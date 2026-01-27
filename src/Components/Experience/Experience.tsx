@@ -21,7 +21,7 @@ const Experience: React.FC = () => {
       </div>
       <div className="experience-intro">
         <p>
-          Along with highly distributed and scalable Microservices and Event-Driven applications, I have designed various innovative full-stack prototypes from scratch, solving real world problems like remote operation on cars.
+          Alongside architecting highly distributed, scalable microservices and event-driven systems, I have designed, integrated, and productionized AI/ML and Generative AI solutions within enterprise platforms. At BT Group, I lead GenAI initiatives and application security, delivering AI-driven fraud detection and risk controls, while also contributing to applied research in multimodal AI security.
         </p>
       </div>
       <div className="experience-container">

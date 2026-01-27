@@ -11,7 +11,7 @@ const Experience_Data = [
         title: "'AI for a secure Order Journey'",
         image: ee_bt,
         info: "AI powered complaince, fraud detection & security of order journey",
-        details: "Designed and integrated end-to-end AI solution in British Telecom's and EE e-commerce for fraud detected, complaince enforcement and security of order journey.",
+        details: "Led the integration of AI-driven fraud detection and compliance controls into existing BT Group and EE e-commerce workflows, securing end-to-end order journeys, cutting application security defects by 70% and significantly improving platform robustness and customer experience.",
         link_description: "",
         link: ""
         
